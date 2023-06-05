@@ -1,0 +1,18 @@
+[package]
+
+name = "grow-your-pegs"
+version = "0.8.0"
+authors = [
+    "Aruna <arunabherath@gmail.com>",
+]
+
+[[bin]]
+name = "grow-your-pegs"
+
+[dependencies]
+piston = "0.53.0"
+piston2d-graphics = "0.43.0"
+pistoncore-glutin_window = "0.71.0"
+piston2d-opengl_graphics = "0.82.0"
+find_folder = "0.3.0"
+piston_window = "0.128.0"
